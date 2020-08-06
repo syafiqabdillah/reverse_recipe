@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:rere/pages/home.dart';
 import 'package:rere/classes/bahan.dart';
 
 class AddBahan extends StatefulWidget {
